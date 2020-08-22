@@ -1,0 +1,8 @@
+HEADER FILES : iostream, fstream, iomanip, string, stdlib, stdio
+CLASSES : password , doctor, patient, bed.
+FUNCTIONS : 1. For getting data
+            2. For displaying data
+            3. Friend Functions
+     
+CONDITIONALS : Switch, If else If
+File operations
